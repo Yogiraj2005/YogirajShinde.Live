@@ -37,7 +37,7 @@ class Projects extends React.Component {
           "A full-stack stock monitoring platform with a visually rich dashboard for tracking, analyzing, and gaining insights from market data",
         techStack: "Javascript, HTML / CSS, ReactJs,NodeJs",
         link: "https://github.com/Yogiraj2005/ZenoTrade--Stock-Trading-platform",
-        open: "zenotrade-frontend.onrender.com"
+        open: "https://zenotrade-frontend.onrender.com"
       },
       "FitTrack-Virtual-Health-Coach": {
         desc:
