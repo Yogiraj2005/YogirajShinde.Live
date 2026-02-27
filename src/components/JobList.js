@@ -82,6 +82,15 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    AICTE_Microsoft_Elevate_Copilot_Program: {
+      jobTitle: "Intern @",
+      duration: "DEC 2025 - JAN 2026",
+      desc: [
+        "Completed a structured internship focused on mastering Microsoft Copilot and integrating emerging AI technologies into development workflows.",
+        "Upgraded an existing full-stack telemedicine application by utilizing Microsoft Copilot for code optimization, debugging, and feature enhancement.",
+        "Presented the enhanced application as the final capstone project to demonstrate practical competency in AI-driven development."
+      ]
+    },
     CodeAlpha: {
       jobTitle: "Fullstack Development Intern @",
       duration: "JUL 2025 - AUG 2025",

@@ -24,6 +24,14 @@ class Projects extends React.Component {
   render() {
 
     const projects = {
+      
+       "Gramin_Healthgaurd": {
+        desc:
+          "It is platform designed to bridge the healthcare gap in rural India. Using the Nabha district in Punjab as a case study.--> Project needs your suggetions open for contributions If interested focus on the pharmacy model",
+        techStack: "Javascript, JavaScript, html, css",
+        link: "https://github.com/Yogiraj2005/Gramin_Healthgaurd",
+        open: "https://ai-base-healthcare-architecture-for-india.onrender.com"
+      },
       "SuiteSpot_Property-listing-website": {
         desc:
           "SuiteSpot is a web-based real estate platform designed to streamline the process of buying, selling, and renting properties. It serves as a digital marketplace where users can browse high-quality property listings and agents or sellers can manage their inventory.",
@@ -46,13 +54,7 @@ class Projects extends React.Component {
         link: "https://github.com/Yogiraj2005/FitTrack-Virtual-Health-Coach.git",
         open: "https://personalize-fitness-coach-virtual-t1kr.onrender.com"
       },
-      "Telemedicine-application-for-nabha-HealthGuard-by-Getch-": {
-        desc:
-          "It is platform designed to bridge the healthcare gap in rural India. Using the Nabha district in Punjab as a case study.--> Project needs your suggetions open for contributions If interested focus on the pharmacy model",
-        techStack: "Javascript, JavaScript, html, css",
-        link: "https://github.com/Nipunbhadane123/Telemedicine_application_for_nabha_HealthGuard_by_Getch-",
-        open: "https://ai-base-healthcare-architecture-for-india.onrender.com"
-      }
+     
     };
 
     return (
