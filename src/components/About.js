@@ -21,7 +21,7 @@ class About extends React.Component {
     const one = (
       <p>
         "I am a <b>Computer Engineering Student</b> specialized in the <b>MERN</b> stack with
-        a growing focus on<b>AI/ML and Data Science.</b>I am passionate about bridging the gap between
+        a growing focus on<b> AI/ML and Data Science.</b>I am passionate about bridging the gap between
         concepts and reality by turning ideas into functional technology. For
         me, success isn’t just a goal; it is a daily habit of continuous
         learning, building, and refining my craft."

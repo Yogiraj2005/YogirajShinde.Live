@@ -32,6 +32,13 @@ class Projects extends React.Component {
         link: "https://github.com/Yogiraj2005/Gramin_Healthgaurd",
         open: "https://ai-base-healthcare-architecture-for-india.onrender.com"
       },
+      "AgroPredict": {
+        desc:
+          "AgroPredict is an end-to-end agricultural intelligence system that combines computer vision, machine learning, and generative AI to help maize farmers diagnose crop diseases, predict yield losses, and receive actionable agronomic recommendations",
+        techStack: "Python,ML,Cmputer-Vision",
+        link: "https://github.com/Yogiraj2005/AgroPredict",
+        //open: "https://ai-base-healthcare-architecture-for-india.onrender.com"
+      },
       "SuiteSpot_Property-listing-website": {
         desc:
           "SuiteSpot is a web-based real estate platform designed to streamline the process of buying, selling, and renting properties. It serves as a digital marketplace where users can browse high-quality property listings and agents or sellers can manage their inventory.",
